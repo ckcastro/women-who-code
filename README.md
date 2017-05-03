@@ -1,2 +1,2 @@
-# women-who-code-
+# women-who-code
 Casual Coding + Connect nights
